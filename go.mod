@@ -63,7 +63,7 @@ require (
 	github.com/ipld/go-car v0.4.0
 	github.com/ipld/go-car/v2 v2.4.0
 	github.com/ipld/go-codec-dagpb v1.4.1
-	github.com/ipld/go-ipld-prime v0.17.0
+	github.com/ipld/go-ipld-prime v0.18.0
 	github.com/jbenet/go-random v0.0.0-20190219211222-123a90aedc0c
 	github.com/jbenet/go-temp-err-catcher v0.1.0
 	github.com/jbenet/goprocess v0.1.4
@@ -82,7 +82,7 @@ require (
 	github.com/libp2p/go-libp2p-routing-helpers v0.2.3
 	github.com/libp2p/go-libp2p-testing v0.9.2
 	github.com/libp2p/go-socket-activation v0.1.0
-	github.com/miekg/dns v1.1.48
+	github.com/miekg/dns v1.1.50
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/multiformats/go-multiaddr v0.6.0
 	github.com/multiformats/go-multiaddr-dns v0.3.1
